@@ -24,3 +24,6 @@ Releaseから最新版を取得してください。
 
 本ツールはソースコードを公開しています。
 外部サーバーへの通信や情報送信は行いません。
+
+ブログ記事はこちら！！
+https://yurukurage.net/timingchart_gentool/
